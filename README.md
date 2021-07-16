@@ -9,7 +9,7 @@ Melanie I. Worley * <sup> 1</sup>, Nicholas J. Everetts * <sup> 1, 2</sup>, Riku
 
 
 
-Single-cell analysis of developing imaginal discs
+Single-cell analysis of regenerating and developing imaginal discs
 
 
 We used [scvi-tools](https://scvi-tools.org/) and [Seurat](https://satijalab.org/seurat/) to analyze single-cell RNAseq data.
@@ -18,7 +18,7 @@ We used [scvi-tools](https://scvi-tools.org/) and [Seurat](https://satijalab.org
 
 ## Please contact us with questions! 
 
-* [Melanie I. Worley, Ph.D.](https://sites.google.com/view/melanieworley/home?authuser=0/)  (mworley@berkeley.edu)
+* [Melanie I. Worley, Ph.D.] (https://sites.google.com/view/melanieworley/home?authuser=0/)  (mworley@berkeley.edu)
 
 * Nicholas J. Everetts (nicholas_everetts@berkeley.edu)
 
