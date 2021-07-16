@@ -9,10 +9,7 @@
 
 
 
-* Single-cell analysis of regenerating and developing imaginal discs
-
-
-We used [scvi-tools](https://scvi-tools.org/) and [Seurat](https://satijalab.org/seurat/) to analyze single-cell RNAseq data.
+* Single-cell analysis of regenerating and developing imaginal discs. We used [scvi-tools](https://scvi-tools.org/) and [Seurat](https://satijalab.org/seurat/) to analyze single-cell RNAseq data.
 
 
 
