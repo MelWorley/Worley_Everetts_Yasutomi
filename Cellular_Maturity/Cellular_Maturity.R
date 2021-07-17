@@ -33,8 +33,4 @@ temporalGenes[temporalGenes == "br"]
 
 # Next we ran PCA on the single-cell data only considering these temporal genes (using Seurat) 
 
-```{r}
-CellularMaturity = RunPCA(Seurat_Object, features = temporalGenes )
-DimPlot(CellularMaturity, reduction = "pca")
 
-```
