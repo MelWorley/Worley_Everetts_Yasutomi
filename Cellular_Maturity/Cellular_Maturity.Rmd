@@ -1,7 +1,7 @@
 # Coded in R markdown 
 
 # To create a gene signature of developmental progression / cellular maturity - we first looked for genes with differential expression during normal development
-#(between mid and late 3rd instar)
+# (between mid and late 3rd instar)
 
 # this set of genes is called "temporalGenes" 
 
